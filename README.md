@@ -8,6 +8,6 @@
 * ⚡ `I'm:` **XX years old**
 * 🧑 `Pronouns:` **He/Him**
 * 🌱 `I’m currently learning:` **Rust**
-* 💻 `Favorite lang`: **Typescript/JavaScript**
+* 💻 `Favorite lang`: **TypeScript/JavaScript**
 
 }
